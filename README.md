@@ -1,4 +1,4 @@
-# Virtual Library Management System (FYP) 📚🎓
+#  Library Management System (FYP) 📚🎓
 
 A robust, full-featured Library Management System implemented in C++ as a Final Year Project. This system demonstrates advanced Object-Oriented Programming (OOP) concepts, robust error handling, and persistent data management.
 
@@ -72,4 +72,4 @@ g++ -o LibrarySystem Project.cpp
 
 ## ✨ Developed by
 **[Your Name/Irtiza Abbas]**
-*Final Year Project for C++ Spring 2026*
+* Project for C++ Spring 2026*
