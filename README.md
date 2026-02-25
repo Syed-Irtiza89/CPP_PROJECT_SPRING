@@ -1,6 +1,6 @@
 #  Library Management System (FYP) 📚🎓
 
-A robust, full-featured Library Management System implemented in C++ as a Final Year Project. This system demonstrates advanced Object-Oriented Programming (OOP) concepts, robust error handling, and persistent data management.
+A robust, full-featured Library Management System implemented in C++ as a  Project. This system demonstrates advanced Object-Oriented Programming (OOP) concepts, robust error handling, and persistent data management.
 
 ## 🚀 Key Features
 
